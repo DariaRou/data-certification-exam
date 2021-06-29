@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\nmedian age associated with a positive effect on the number of crime incidents\n",
+    "T_STAT": "\n1.820\n",
+    "P_VALUE": "\np value is higher than 0.05 for 95 confidence level and than 0.1 for 90 confidence level, \ntherefore this effect is not significant for any of two confidence levels, and we cannot reject the null\nhypothesis that there is no meaningful relationship between two measured phenomena.\n",
+    "INCREASE": "\nHolding all other regressors constant, the total number of incidents \ndecrease by 2115.1839 when the share of families with a married couple \nincreases by 1 percentage point in the district.\n",
+    "LIMITATIONS": "\nthere is strong multicollinearity in features presented in our model\n"
+}
